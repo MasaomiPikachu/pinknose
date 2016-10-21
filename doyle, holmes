@@ -1,0 +1,94 @@
+<style>
+
+body {
+  margin-bottom: 80px;
+}
+  .sienna-text{color: sienna;
+  }
+  .black-text{color: black;
+  }
+  .grey-text{color: grey;
+  }
+    #img-well {background: beige;
+}
+  #title-well {background: beige;
+  }
+  #describer {background: grey;
+    }
+    
+  }
+ 
+</style>
+<!--Only change code below this line.-->
+<div id="page">
+  <div class="well well-lg" id="netwell">
+<div class="container-fluid">
+  <div class="well" id="title-well">
+
+<h1 class="text-center sienna-text" id="title"> A Tribute to Sir Arthur Conan Doyle 
+  <small class="sienna-text">and the Fantastic Man Who He Created
+  </small">
+  </h1>
+    </div>
+  <div class="well well-lg" id="img-well">
+  <div class="row" id="images">
+    <div class="col-md-4">
+<a><img class="img-responsive img-circle"
+     src="https://s-media-cache-ak0.pinimg.com/236x/35/3c/8c/353c8cc8d4db320d2a0032d0eb9e717f.jpg" alt="Sir Arthur Conan Doyle"></a>
+  </div>
+    <div class="col-md-4">
+      <a><img class="img-responsive img-circle" src="http://i.dailymail.co.uk/i/pix/2015/03/31/17/272B116400000578-3019815-image-a-40_1427819706297.jpg" alt="Doyle's Victorian Home where Sherlock Holmes was written"></a>
+    </div>
+    <div class="col-md-4">
+      <a><img class="img-responsive img-circle" src="http://www.basilrathbone.net/hbalt.jpg" alt="Sherlockc Holmes as portrayed by Basil Rathbone"></a>
+    </div>
+    </div>
+      <div class="well" id="describer">
+  <h4 class="black-text text-center"> Left to Right: Sir Arthur Conan Doyle, Doyle's Victorian home where Sherlock Holmes was written, and Sherlock Holmes as portrayed by Basil Rathbone</h4>
+    </div>
+</div>
+<div class="body">
+  <h2 class="grey-text"> Doyle</h2>
+  <h3>
+    Sir Arthur Conan Doyle (full name: Arthur Ignatius Conan Doyle) was born on May 22, 1859 in Edinburgh, Scotland to, parents, Charles Altamont Doyle and Mary Foley.
+  </h3><h3>
+  Doyle was enrolled in medical school from 1876 to 1881 and began writing between his studies. He completed his Medical Doctorate before his writing career took off.
+  </h3><h3>
+  The first short story which Doyle sold to a publisher was The Mystery of Sasassa Valley which was printed in September 1879 by the Chambers's Edinburgh Journal.
+  </h3><h3>
+  Doyle's career in writing really began in November of 1886 when he sold his first Holmes story to Ward Lock & Co. From his first short story, A Study in Scarlet, to his last short story, The Adventure of Shoscombe Old Place, and through all<a href="https://en.wikipedia.org/wiki/Canon_of_Sherlock_Holmes" target="_blank" class="text-info"> 54 stories in between</a>; Holmes is a part of our society.
+  </h3><h3>
+  Doyle's last Sherlock story was published in 1927 and his last novel was published in 1929. Doyle passed away July 7 1930 of a heart attack at the age of 71.
+  </h3>
+  
+  <h2 class="black-text"><em>"I consider that a man's brain originally is like a little empty attic, and you have to stock it with such furniture as you choose."</em><small>Sir Arthur Conan Doyle</small></h2>
+  
+  <h2 class="grey-text"> Holmes </h2>
+  <h3>
+    To this day, most of the world has heard of the consulting detective who resides at 221B Baker Street. To say that Doyle created a compelling and dynamic character would be an understatement. Sherlock Holmes is a cultural icon, an aspiration, an adjective, and a verb. Upon hearing the phrase "Elementary, dear Watson!", we all picture Holmes' deerstalker cap. What is humerous, though, is that not once in the 56 Sherlock Holmes stories written by Doyle did Sherlock ever say those words! In fact, Doyle never descibed Sherlock to have worn a deerstalker cap either. Sherlock did say the words Elementary and dear Watson within the same few sentences... once, but never the exact phrase we know and love. The patented deerstalker cap was an invention of illustrators and was further popularized by actors who played Holmes.
+  </h3>
+  <h3>
+    One such actor was <a href="https://en.wikipedia.org/wiki/Basil_Rathbone" target="_blank">Basil Rathbone</a> who is arguably the most memorable Sherlock actor (though I'm sure the Cumberbitches would beg to differ!).
+  </h3><h3>
+  Rathbone portrayed Holmes in 14 different films and a radio series called The New Adventures of Sherlock Holmes between the years 1939 to 1946. The bulk of Rathbone's career was comprised of playing Sherlock.
+  </h3><h3>
+  Rathbone passed away on July 21 1967 at the age of 75.
+    </div>
+  <h2 class="black-text text-center"><em>"There is nothing more deceptive than an obvious fact."</em><small>Sir Arthur Conan Doyle</small></h2>
+  <h3>
+  Hopefully you've learned a bit more about an always relevant author and his immortal character. If you would like further information feel free to click the links below.</h3>
+
+<div>
+  <div class="col-md-4">
+    <h4 class="black-text"><u>More information on <a href="http://www.arthurconandoyle.com/biography.html" target="_blank">Sir Arthur Conan Doyle</u></a></h4>
+    </div>
+      <div class="col-md-4">
+        <h4 class="black-text"><u>More information on <a href="http://www.sherlockian.net/" target="_blank">Sherlock Holmes</u></a></h4>
+    </div>
+  <div class="col-md-4">
+    <h4 class="grey-text">Thanks for reading!</h4>
+</div>
+  </well>
+    </div>
+  <!--DELETE EVERYTHING BELOW THIS LINE-->
+  
